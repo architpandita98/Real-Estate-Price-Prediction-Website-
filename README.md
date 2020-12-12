@@ -3,4 +3,4 @@ Build a web app that predicts the real estate price for properties and houses ac
 
 Technology and tools:Python,Numpy and Pandas,Matplotlib,Sklearn for model building,Jupyter notebook, visual studio code and pycharm as IDE,Python flask for http server,HTML/CSS/Javascript for UI
 
-See (ML_Project.pdf) file for code and output
+See (ML_Project.pdf) file for code and output and also see snapshots of website (Snapshots_Website) file.
